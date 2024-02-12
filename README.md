@@ -23,5 +23,6 @@ TBD
 
 - [Documentation #1: https://pyinstaller.org/en/stable/usage.html](https://pyinstaller.org/en/stable/usage.html)
 
+### Create a Quick Window using Qt
 
-
+- [https://doc.qt.io/qtforpython-6/examples/example_quick_window.html](https://doc.qt.io/qtforpython-6/examples/example_quick_window.html)
