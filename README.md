@@ -17,6 +17,11 @@ pip install -r requirements.txt
 
 TBD
 
-## Installation
+## Documentation
 
-TBD
+### Create an application from Python
+
+- [Documentation #1: https://pyinstaller.org/en/stable/usage.html](https://pyinstaller.org/en/stable/usage.html)
+
+
+
